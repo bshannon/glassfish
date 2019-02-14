@@ -1,9 +1,11 @@
 # About
 
-Jakarta EE GlassFish is Jakarta EE Implementation sponsored by the
-Eclipse Foundation; We welcome external contributions. Make sure to
-read our
-[Contribution Guide](https://github.com/eclipse-ee4j/glassfish/blob/master/CONTRIBUTING.md).
+Eclipse GlassFish is a Jakarta EE compatible implementation sponsored by
+the Eclipse Foundation.
+Eclipse GlassFish 5.1 is Java EE 8 Compatible.
+We welcome external contributions.
+Make sure to read our
+[Contribution Guide](CONTRIBUTING)
 
 # Latest News
 
