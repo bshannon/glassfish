@@ -12,6 +12,11 @@
 * [JavaServer Faces 2.3 Standard HTML RenderKit Documentation]()
 * [JavaServer Faces 2.3 JavaScript Documentation]()
 
-# [Eclipse GlassFish Documentation and User Guides](docs)
+# Eclipse GlassFish Documentation and User Guides
 
-# [Eclipse Open MQ Documentation](https://eclipse-ee4j.github.io/openmq/guides)
+## [Current release](docs#current)
+## [Development version](docs#development)
+
+# Eclipse Open MQ Documentation
+
+## See the [Open MQ Project](https://eclipse-ee4j.github.io/openmq/guides)

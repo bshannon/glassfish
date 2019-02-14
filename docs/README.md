@@ -1,7 +1,7 @@
 
 # Eclipse GlassFish Documentation and User Guides
 
-## Current Release
+## <a name="current">Current Release</a>
 
 * [Add On Component Development Guide](5.1.0/add-on-component-development-guide/toc.html)
 * [Administration Guide](5.1.0/administration-guide/toc.html)
@@ -20,7 +20,7 @@
 * [Troubleshooting Guide](5.1.0/troubleshooting-guide/toc.html)
 * [Upgrade Guide](5.1.0/upgrade-guide/toc.html)
 
-## Development Version
+## <a name="development">Development Version</a>
 
 * [Add On Component Development Guide](SNAPSHOT/add-on-component-development-guide/toc.html)
 * [Administration Guide](SNAPSHOT/administration-guide/toc.html)
