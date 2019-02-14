@@ -14,9 +14,9 @@
 
 # Eclipse GlassFish Documentation and User Guides
 
-## [Current release](docs#current)
-## [Development version](docs#development)
+* [Current release](docs#current)
+* [Development version](docs#development)
 
 # Eclipse Open MQ Documentation
 
-## See the [Open MQ Project](https://eclipse-ee4j.github.io/openmq/guides)
+* See the [Open MQ Project](https://eclipse-ee4j.github.io/openmq/guides)
