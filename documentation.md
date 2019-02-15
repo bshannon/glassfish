@@ -1,9 +1,11 @@
-# Jakarta EE Tutorials
+# Jakarta EE and GlassFish documentation
+
+## Jakarta EE Tutorials
 
 * [Jakarta EE 8 First Cup](https://eclipse-ee4j.github.io/jakartaee-firstcup)
 * [Jakarta EE 8 Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial)
 
-# Jakarta EE API Documentation and Tag Reference
+## Jakarta EE API Documentation and Tag Reference
 (Coming soon!)
 
 * [Jakarta EE 8 Specification APIs]()
@@ -12,11 +14,11 @@
 * [JavaServer Faces 2.3 Standard HTML RenderKit Documentation]()
 * [JavaServer Faces 2.3 JavaScript Documentation]()
 
-# Eclipse GlassFish Documentation and User Guides
+## Eclipse GlassFish Documentation and User Guides
 
 * [Current release](docs#current)
 * [Development version](docs#development)
 
-# Eclipse Open MQ Documentation
+## Eclipse Open MQ Documentation
 
 * See the [Open MQ Project](https://eclipse-ee4j.github.io/openmq/guides)
