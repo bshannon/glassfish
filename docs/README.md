@@ -39,3 +39,21 @@
 * [Troubleshooting Guide](SNAPSHOT/troubleshooting-guide/toc.html)
 * [Upgrade Guide](SNAPSHOT/upgrade-guide/toc.html)
 
+## <a name="5.1.0">5.1.0 Release</a>
+
+* [Add On Component Development Guide](5.1.0/add-on-component-development-guide/toc.html)
+* [Administration Guide](5.1.0/administration-guide/toc.html)
+* [Application Deployment Guide](5.1.0/application-deployment-guide/toc.html)
+* [Application Development Guide](5.1.0/application-development-guide/toc.html)
+* [Deployment Planning Guide](5.1.0/deployment-planning-guide/toc.html)
+* [Embedded Server Guide](5.1.0/embedded-server-guide/toc.html)
+* [Error Messages Reference](5.1.0/error-messages-reference/toc.html)
+* [High Availability Administration Guide](5.1.0/ha-administration-guide/toc.html)
+* [Installation Guide](5.1.0/installation-guide/toc.html)
+* [Performance Tuning Guide](5.1.0/performance-tuning-guide/toc.html)
+* [Quick Start Guide](5.1.0/quick-start-guide/toc.html)
+* [Reference Manual](5.1.0/reference-manual/toc.html)
+* [Release Notes](5.1.0/release-notes/toc.html)
+* [Security Guide](5.1.0/security-guide/toc.html)
+* [Troubleshooting Guide](5.1.0/troubleshooting-guide/toc.html)
+* [Upgrade Guide](5.1.0/upgrade-guide/toc.html)

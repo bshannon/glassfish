@@ -1,4 +1,4 @@
-# Jakarta EE and GlassFish documentation
+# Jakarta EE and GlassFish Documentation
 
 ## Jakarta EE Tutorials
 
@@ -18,6 +18,7 @@
 
 * [Current release](docs#current)
 * [Development version](docs#development)
+* [5.1.0 release](docs#5.1.0)
 
 ## Eclipse Open MQ Documentation
 
